@@ -1,5 +1,4 @@
-import { Component, OnInit } from '@angular/core';
-import { DashboardComponent } from './dashboard/dashboard.component';
+import { Component} from '@angular/core';
 
 
 @Component({
@@ -9,6 +8,4 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 })
 export class AppComponent {
   title = 'simple-crm';
- 
- 
 }
